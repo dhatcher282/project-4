@@ -17,7 +17,7 @@ Repo Start-State:
 
 - ES6 Class Types: Inheritance
 
-<h2>281 Project 3 Learning Outcomes</h2>
+<h2>Project 3 Learning Outcomes</h2>
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
 
@@ -31,7 +31,7 @@ Repo Start-State:
 
 - Use jQuery, JavaScript, and public APIs to fetch JSON data, then use it to refresh part of a web page
 
-<h2>281 Project 2 Learning Outcomes</h2>
+<h2>Project 2 Learning Outcomes</h2>
 
 - A web API or Application Programming Interface is an API accessed using the HTTP protocol.
 
@@ -45,7 +45,7 @@ Repo Start-State:
 
 - In this project, you will use Flickr's public API.
 
-<h2>281 Project 1 Learning Outcomes</h2>
+<h2>Project 1 Learning Outcomes</h2>
 
 - Basic Unix Shell commands
 
